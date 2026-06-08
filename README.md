@@ -80,6 +80,12 @@ Tasks:
   - Search/filter
   - Pagination
 
+## Live Deployment
+
+Frontend (Vercel): https://av-qunint-innovations.vercel.app/
+
+Backend (Render): https://avqunint-innovations.onrender.com/
+
 ## Notes
 
 - Ensure MongoDB is running and `MONGO_URI` is correct.
